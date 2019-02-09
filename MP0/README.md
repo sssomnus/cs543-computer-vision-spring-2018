@@ -1,9 +1,9 @@
 ********
-<center>
+
 # Spring 2018 CS543:  Assignment 0  
 **@author**: Ziyu Zhou  
 
-</center>
+
 ********
 
 ## 1 Basic Implementation
