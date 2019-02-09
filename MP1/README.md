@@ -1,8 +1,7 @@
 ********
 =
 # Spring 2018 CS543:  Assignment 1  
-**Name**: Ziyu Zhou  
-**NetID**: ziyuz2
+**@author**: Ziyu Zhou  
 
 =
 ********
