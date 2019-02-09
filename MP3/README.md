@@ -223,9 +223,9 @@ Note that all plots (excpet **section 1.3**) are using homogeneous system setup 
 ### 1.1 `house`
 
 **Ground truth matches:**
-<center>
+
 ![img](part_2/outputs/house_matches.svg)
-</center>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -233,10 +233,10 @@ Note that all plots (excpet **section 1.3**) are using homogeneous system setup 
 
 Note that `Avg dist1` and `Avg dist2` means average residuals for image 1 and image 2 separately.
 
-<center>
+
 ![img](part_2/outputs/house_epipolar_unnorm.svg)
 
-</center>
+
 
 **Residuals:**
 
@@ -249,10 +249,10 @@ Avg dist2: 0.04263472012864928
 
 #### 1.1.2 Normalized Results
 
-<center>
+
 ![img](part_2/outputs/house_epipolar_norm.svg)
 
-</center>
+
 
 **Residuals:**
 
@@ -268,17 +268,17 @@ Avg dist2: 0.0038395935080640137
 
 **Ground truth matches:**
 
-<center>
+
 ![img](part_2/outputs/library_matches.svg)
-</center>
+
 
 
 #### 1.2.1 Unnormalized Results
 
-<center>
+
 ![img](part_2/outputs/library_epipolar_unnorm.svg)
 
-</center>
+
 
 **Residuals:**
 
@@ -291,9 +291,9 @@ Avg dist2: 0.05687674020796551
 
 #### 1.2.2 Normalized Results
 
-<center>
+
 ![img](part_2/outputs/library_epipolar_norm.svg) 
-</center>
+
 
 **Residuals:**
 
@@ -330,16 +330,16 @@ Thus, I decided to use homogeneous for all cases.
 
 #### 2.1.1 Output
 
-<center>
+
 ![img](part_2/outputs/house_epipolar_ransac.svg)
-</center>
+
 
 #### 2.1.2 Inliers
 **Plot for inlier matches using RANSAC:**
 
-<center>
+
 ![img](part_2/outputs/house_inlier_matches.svg)
-</center>
+
 
 **Inliers:**
 
@@ -353,16 +353,16 @@ Average residual: 0.006313754734804022
 
 #### 2.2.1 Output
 
-<center>
+
 ![img](part_2/outputs/library_epipolar_ransac.svg)
-</center>
+
 
 #### 2.2.2 Inliers
 **Plot for inlier matches using RANSAC:**
 
-<center>
+
 ![img](part_2/outputs/library_inlier_matches.svg)
-</center>
+
 
 **Inliers:**
 
